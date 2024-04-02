@@ -56,6 +56,7 @@ textAlign 프로퍼티로 텍스트를 깔끔하게 표현해보자
 - justify
 - left
 - right
+- ...
 
 p.s. 여기서 start와 end는 textDirection을 따른다. rtl과 ltr가 있는데, RightToLeft와 LeftToRight라는 것 눈치챘겠지?
 
@@ -83,6 +84,7 @@ p.s. 여기서 start와 end는 textDirection을 따른다. rtl과 ltr가 있는�
 - child
 - alignment
 - decoration
+- ...
 
 #### 👶🏻: child 프로퍼티라...
 
@@ -109,6 +111,7 @@ alignment 프로퍼티로 컨테이너 안의 위젯을 정렬해보자
 - bottomLeft
 - bottomCenter
 - bottomRight
+- ...
 
 #### 🎨: decoration 프로퍼티라...
 
